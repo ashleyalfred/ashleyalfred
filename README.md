@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ashleyalfred
-- 👀 I’m interested in helping companies find top-tier software engnineers 
+- 👀 I’m interested in helping companies find top-tier software engineers 
 - 👩‍💻 I'm also interested in helping software engineers find awesome new jobs
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: ashley@sagerecruiting.me
